@@ -2,5 +2,6 @@
 
 # Contributor
 * Pengfei Liu
+* Anthony Middleton
 
 # Addition
