@@ -4,5 +4,5 @@
 * Pengfei Liu
 * Anthony Middleton
 # Cameron Joerger
-* Jiasheng Yang (This is the addition)
+* Jiasheng Yang - jy445 (This is the addition)
 
