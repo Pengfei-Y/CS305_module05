@@ -3,4 +3,7 @@
 # Contributor
 * Pengfei Liu
 * Anthony Middleton
-* Cameron Joerger
+
+# Cameron Joerger
+* Jiasheng Yang - jy445 (This is the addition)
+
