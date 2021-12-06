@@ -5,3 +5,8 @@ I want to create a product that aims to facilitate researcher-participant coordi
 * Pengfei Liu
 * Anthony Middleton
 * Cameron Joerger
+* Jiasheng Yang (This is the addition)
+
+# Technologies
+* Python
+* Pytorch
